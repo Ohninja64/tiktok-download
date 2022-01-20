@@ -1,1 +1,1 @@
-Worker: node ./src/bot.js
+Worker: node ./tiktok-download/bot.js
